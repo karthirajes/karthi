@@ -3,9 +3,9 @@
 #include<conio.h>
 int main()
 {
-char a[]="karthi";
+int a=10;
 clrscr();
 strrev(a);
-printf("%s",a);
+printf("%d",a);
 getch();
 }
