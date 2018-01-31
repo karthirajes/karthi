@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
 	int a,b,c;
 	printf("enter the time");
 	scanf("%d",&c);
