@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+intmain()
 {
 int a,i;
 printf("enter a number");
@@ -11,4 +11,5 @@ if(a%i==0)
 printf("The Factors are %d\n",i);
 }
 }
+  return 0;
 }
