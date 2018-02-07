@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 int arr[100],max,size,c,location=1;
 printf("\n enter the elements in a array\n");
